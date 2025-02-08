@@ -27,6 +27,69 @@ This example allows you to set the company stock symbol of the company that you 
 You also need a free SEC-API key for this example to download the SEC filings. [Get your free SEC-API key here](https://sec-api.io/login).
 You can insert your SEC-API key in the `main.py` script, or you can supply your SEC-API key either via the `.env` file, or through an environment variable called `SEC_API_API_KEY`.
 
+## Project Setup
+
+blah blah blah
+
+## Final Output
+
+| >>>>> The final answer will look similar to this example: <<<<< |
+| --------------------------------------------------------------- |
+**Financial Analysis Report**
+
+**Company Overview**
+Microsoft Corporation (MSFT) is one of the largest and most influential technology companies worldwide. With its headquarters located in Redmond, Washington, it has become synonymous with innovation and technological advancements.
+
+**Profitability Ratios**
+
+*   **Gross Profit Margin:** 36.3% in the latest fiscal year
+*   **Operating Profit Margin:** 28.2% in the latest fiscal year
+
+These metrics indicate a relatively stable profitability trend for MSFT, with gross profit margin slightly increasing over time and operating profit margin showing an upward trend.
+
+**Liquidity Ratios**
+
+*   **Current Ratio:** 1.53 in the latest fiscal year
+*   **Quick Ratio:** 0.94 in the latest fiscal year
+
+These ratios suggest that MSFT has sufficient liquidity to meet its short-term obligations, indicating a low risk of default for the company.
+
+**Solvency Ratios**
+
+*   **Debt-to-Equity Ratio:** 0.36 in the latest fiscal year
+*   **Interest Coverage Ratio:** 11.4 in the latest fiscal year
+
+These metrics indicate that MSFT has an optimal debt structure, with a manageable level of leverage and sufficient interest coverage ratio to maintain its financial stability.
+
+**Efficiency Ratios**
+
+*   **Asset Turnover Ratio:** 1.45 in the latest fiscal year
+*   **Inventory Turnover Ratio:** 4.23 in the latest fiscal year
+
+These ratios suggest that MSFT is efficiently utilizing its assets, resulting in higher revenue and profitability.
+
+**Growth Metrics**
+
+*   **Three-Year Revenue Growth Rate:** 12.1% in the latest fiscal year
+*   **Five-Year Revenue Growth Rate:** 13.5% in the latest fiscal year
+
+These growth rates indicate a steady increase in MSFT's revenue, driven by its continued innovation and expansion into new markets.
+
+**Valuation Metrics**
+
+*   **Price-to-Earnings Ratio (P/E):** 30.1 in the latest fiscal year
+*   **Enterprise Value/EBITDA:** 13.5 in the latest fiscal year
+
+These valuation metrics suggest that MSFT is slightly overvalued compared to its historical average, indicating potential risks for investors.
+
+**Cash Flow Metrics**
+
+*   **Operating Cash Flow Margin:** 25.1% in the latest fiscal year
+*   **Free Cash Flow Yield:** 6.4% in the latest fiscal year
+
+These cash flow metrics indicate that MSFT generates a significant amount of free cash flow, providing flexibility to invest in future growth initiatives.
+
+In conclusion, this financial analysis report provides an in-depth examination of MSFT's financial performance across various key metrics. While it has some areas for improvement, such as its valuation and efficiency ratios, the company's strong profitability, liquidity, solvency, and growth prospects make it a solid investment opportunity for long-term investors.
 
 # Further Improvement to be made - TODO
 - add tool to browse the latest news
