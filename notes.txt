@@ -1,0 +1,4 @@
+### This is for my personal reference ##
+
+from IPython.display import Markdown
+Markdown(result)
