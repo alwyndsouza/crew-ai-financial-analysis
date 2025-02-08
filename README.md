@@ -29,22 +29,22 @@ You can insert your SEC-API key in the `main.py` script, or you can supply your 
 
 ## Project Setup
 
-# Clone the repository
+### Clone the repository
 ```
 git clone https://github.com/alwyndsouza/ai-crewai-multi-agent.git
 ```
 
-# create virtual environment
+### Create virtual environment
 ```
 cd ai-crewai-multi-agent
 conda create -n multi-agent python=3.12.8
 conda activate multi-agent
 ```
-# install the required packages
+### install the required packages
 ```
 pip install -r requirements.txt
 ```
-# Run the code
+### Run the code
 ```
 python main.py
 ```
@@ -53,6 +53,7 @@ python main.py
 
 | >>>>> The final answer will look similar to this example: <<<<< |
 | --------------------------------------------------------------- |
+
 **Financial Analysis Report**
 
 **Company Overview**
