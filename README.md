@@ -31,14 +31,14 @@ You can insert your SEC-API key in the `main.py` script, or you can supply your 
 
 ### Clone the repository
 ```
-git clone https://github.com/alwyndsouza/ai-crewai-multi-agent.git
+git clone https://github.com/alwyndsouza/crew-ai-financial-analysis.git
 ```
 
 ### Create virtual environment
 ```
-cd ai-crewai-multi-agent
-conda create -n multi-agent python=3.12.8
-conda activate multi-agent
+cd crew-ai-financial-analysis
+conda create -n crew-ai-financial-analysis python=3.12.8
+conda activate crew-ai-financial-analysis
 ```
 ### install the required packages
 ```
